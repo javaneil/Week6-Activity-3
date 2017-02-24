@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="week6-soap-jaxb-demo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="soapJAXBdemo.war">
+      <element id="artifact" artifact-name="week6-soap-jaxb-demo:war exploded" />
+    </root>
+  </artifact>
+</component>
